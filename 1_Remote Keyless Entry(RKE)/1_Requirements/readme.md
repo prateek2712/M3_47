@@ -17,30 +17,28 @@
 ---
  ##  5W's 1H
 * Who :
-- Automobile owners
+     - Automobile owners
 * What:
--it is a wireless remote key for cars
+     - it is a wireless remote key for cars
 * When: 
-- when the user wants to lock and unlock the car
+     - when the user wants to lock and unlock the car
 * Where:
-- It can be used anywhere based on the owner's needs and requirements
-* Why1
-- For easy access to a car and to keep the vehicle Secure
+     - It can be used anywhere based on the owner's needs and requirements
+* Why:
+     - For easy access to a car and to keep the vehicle Secure
 * How 
-- with the help of a controller
+     - With the help of a controller
 ---
 
 ## Swot Analysis
-* Strengths
-- Easy to use
-- Controlled with a help of a simple button
-- High safety protocols
-* Weakness
--Limted Range Transmission
-* Opportunities
--With the growing surge of automobile industries features of car safety are in high demand
-* Threats
-- Lot of efficient models already available in the market
+* Strengths: 
+    - Easy to use ,Controlled with a help of a simple button ,High safety protocols
+* Weakness :
+    - Limted Range Transmission
+* Opportunities: 
+    - With the growing surge of automobile industries features of car safety are in high demand
+* Threats:
+    - Lot of efficient models already available in the market
 ---
 
 #  Requirements
