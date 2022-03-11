@@ -13,4 +13,4 @@
 ## Low-Level Requirements
 | ID | Low- Level Requirements |
 | -------- | ------------ |
-| HLR1 | Wireless 
+| LLR1 | Wireless 
