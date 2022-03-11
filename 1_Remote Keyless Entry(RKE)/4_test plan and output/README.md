@@ -1,5 +1,5 @@
 
-# 1.1 HIGH LEVEL TEST PLAN
+#  HIGH LEVEL TEST PLAN
 
 | Test ID | Description | Input | Expected output | Actual Output | Status|
 | --- | --- | --- | --- | --- | --- |
