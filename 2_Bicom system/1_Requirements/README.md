@@ -20,7 +20,17 @@
 # How:
 - Steps - Through a simple button.
 # SWOT ANALYSIS
-- 
+# Strength 
+- Works accurately and easy to use by pressing single button we can control from distance.
+- Cost efficient.
+# Weekness
+- Unable to do from long distance.
+- In case of mispress the button doors will open.
+# Opportunity
+- Large scope in automobiles field.
+# Threats
+- Should wait till completion of a task to run another task.
+- In case of key loss others can easily unlock the car.
 
 #  Requirements
 ## High-Level Requirements
@@ -34,4 +44,4 @@
 ## Low-Level Requirements
 | ID | Low- Level Requirements |
 | -------- | ------------ |
-| LLR1 | Wireless 
+| LLR1 |  |
