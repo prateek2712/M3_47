@@ -57,11 +57,22 @@
 
 
 ---
-| ID | High-Level Requirements |
+| ID | LOW-Level Requirements |
 | -------- | -------------- |
 | LL1 | switch on- All led on at the same time |
 | LL2 | switch press two times- All led off at the same time |
 | LL3 |  switch press three times- All led on in a clockwise manner |
 | LL4 |  switch press four times- All led on in an anti-clockwise manner |
+
+
+# Architecture
+* High Level 
+![img1](https://user-images.githubusercontent.com/47187002/157872296-42bef887-712f-4645-ada3-2963501b2e18.jpeg)
+
+* Low Level
+![Blank diagram](https://user-images.githubusercontent.com/47187002/157873098-fe5988d2-a12e-4056-81fc-cd951bdd7091.jpeg)
+
+
+
 
 
