@@ -55,7 +55,7 @@
 
 
 ---
-| ID | High-Level Requirements |
+| ID | LOW-Level Requirements |
 | -------- | -------------- |
 | LL1 | switch on- All led on at the same time |
 | LL2 | switch press two times- All led off at the same time |
