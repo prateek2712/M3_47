@@ -6,6 +6,21 @@
 - It shall print the alarm status of the car for two user button click.
 - It shall print the battery information of the car for three user button click.
 - It shall print the car's door status for four user button click. 
+# 4W's and 1'H
+# Who:
+- People - One who drives the car.
+# What:
+- Thing - BiCom system where car controlled by wireless key.
+# When:
+- Time - When the user wants to know the status of car.
+# Where:
+- Place - Anywhere in the locality upto some distance.
+# Why:
+- Reason - To self control their cars easily and safely.
+# How:
+- Steps - Through a simple button.
+# SWOT ANALYSIS
+- 
 
 #  Requirements
 ## High-Level Requirements
