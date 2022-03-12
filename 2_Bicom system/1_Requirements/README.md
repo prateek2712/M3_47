@@ -44,4 +44,7 @@
 ## Low-Level Requirements
 | ID | Low- Level Requirements |
 | -------- | ------------ |
-| LLR1 |  |
+| LLR1 | user button pressed once, on led orange, green along with other LED's |
+| LLR2 | user button pressed two times, off led orang, green along with other LED's |
+| LLR3 | user button pressed three times, on all led's in clockwise manner (green, orange, red, blue, green)| 
+| LLR4 | user button pressed four times, on all led's in anti-clockwise manner (green, blue, red, orange, green)|
