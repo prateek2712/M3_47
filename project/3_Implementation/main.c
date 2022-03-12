@@ -78,22 +78,22 @@ void main(){
     }
 
     if (count == 1){
-        delay(); //Debounce
+        delay(); 
         P1(count - 1);                //P1=Push button will be pressed single time
     }
 
     if (count == 5){
-        delay(); //Debounce
+        delay(); 
         P2(count - 1);                //P2=Push button will be pressed Two   times
     }
 
     if (count == 10){
-        delay(); //Debounce
+        delay(); 
         P3(count - 1);                //P3=Push button will be pressed Three times
     }
 
     if (count == 13){
-        delay(); //Debounce
+        delay(); 
         P4(count - 1);                 //P4=Push button will be pressed Four times
 
     }
