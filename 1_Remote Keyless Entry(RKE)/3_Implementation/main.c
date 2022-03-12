@@ -16,9 +16,9 @@
 
 int counter = 0;
 
-void doubleclick(int);
-void tripleclicks(int);
-void quadclicks(int);
+void twoclicks(int);
+void threeclicks(int);
+void fourclicks(int);
 void fiveclicks(int);
 
 void delay(){
@@ -79,17 +79,17 @@ void main(){
 
     if (counter == 1){
         delay(); //Debounce
-        doubleclick(counter - 1);
+        twoclicks(counter - 1);
     }
 
     if (counter == 5){
         delay(); //Debounce
-        tripleclicks(counter - 1);
+        threeclicks(counter - 1);
     }
 
     if (counter == 10){
         delay(); //Debounce
-        quadclicks(counter - 1);
+        fourclicks(counter - 1);
     }
 
     if (counter == 13){
@@ -102,21 +102,21 @@ void main(){
 
 }
 
-void doubleclick(int nums){
+void twoclick(int nums){
     GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12, HIGH);
     GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_13, HIGH);
     GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_14, HIGH);
     GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15, HIGH);
 }
 
-void tripleclicks(int nums){
+void threeclicks(int nums){
     GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12, LOW);
     GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_13, LOW);
     GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_14, LOW);
     GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15, LOW);
 }
 
-void quadclicks(int nums){
+void fourclicks(int nums){
     GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
     delay();
     delay();
