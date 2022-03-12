@@ -16,17 +16,17 @@
   - RKE operates by broadcasting radio waves on a particular frequency unidirectionally.
 ---
  ##  5W's 1H
-* Who :
+# Who :
      - Automobile owners
-* What:
+# What:
      - it is a wireless remote key for cars
-* When: 
+# When: 
      - when the user wants to lock and unlock the car
-* Where:
+# Where:
      - It can be used anywhere based on the owner's needs and requirements
-* Why:
+# Why:
      - For easy access to a car and to keep the vehicle Secure
-* How 
+# How 
      - With the help of a controller
 ---
 
@@ -64,10 +64,10 @@
 
 
 # Architecture
-* High Level 
+# High Level 
 ![img1](https://user-images.githubusercontent.com/47187002/157872296-42bef887-712f-4645-ada3-2963501b2e18.jpeg)
 
-* Low Level
+# Low Level
 ![Blank diagram](https://user-images.githubusercontent.com/47187002/157873098-fe5988d2-a12e-4056-81fc-cd951bdd7091.jpeg)
 
 
