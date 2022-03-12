@@ -1,5 +1,4 @@
 # Requirements
-# About Remote Keyless Entry(R.K.E)
 ##  Description
 * This is a remote keyless entry project (R.K.E). This technology assists with automobile locking, unlocking, alarm activation/deactivation, and light focus if someone approaches too close. A led signaling system aids in the identification of the features. For example, if we press a button one time, all of the LEDs will turn on, indicating that the car has been locked; similarly, if we press a button two, three, or four times, all of the LEDs will turn on, indicating that the car has been locked. There are various features, such as high encryption using a rolling code method, which prevents car thieves from intercepting and spoofing telegrams.  
 ---
