@@ -1,5 +1,10 @@
 # M3_47
 
+
+|Code Quality Badge|  Code grade badge  |
+|----------| -----  |
+|![Code Quality Score](https://api.codiga.io/project/31945/score/svg) |   ![Code Grade](https://api.codiga.io/project/31945/status/svg) |
+
 ## FOLDER STRUCTURE INSIDE PROJECT
 
 | Folder | Description |
